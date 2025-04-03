@@ -75,8 +75,8 @@ The **Colorbot** project is an automated aiming (aimbot) and shooting (triggerbo
 ## Directory Structure
 ```
 C:.
-├───Client/            # Contains Arduino.ino file
-├───Host/               # Python virtual environment
+├───Client/            
+├───Host/               
 └───README.md           # This file
 ```
 
