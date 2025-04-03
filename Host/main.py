@@ -41,7 +41,7 @@ class Main:
         Prints the application title and color settings, then starts the Colorbot.
         """
         os.system('cls')
-        os.system('title github.com/iamennui/ValorantArduinoColorbot')
+        os.system('title ArduinoColor')
         print('Enemy Outline Color: Purple')
         self.colorbot.listen()
 
